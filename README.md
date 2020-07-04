@@ -20,6 +20,6 @@ In the best case, the test data (subject 9 and subject 10) were classified.
 As result, the best parameters were set in MATLAB, so just run the code and see the "Det_test_class" values in program for each Subject.
 For example: for Subject 9, just run the S09.m file in MATLAB and see the results. for Subject 10, run the S10.m file, etc.
 
-NOTE: In some subjects, different feature extraction methods were used (not occur in MATLAB), So just add all attachment files into same directory.
+NOTE: In some subjects, different feature extraction methods were used (not occur in MATLAB), So just add all attachment files into same directory. (for ex: mybandpower, myentropy, etc.)
 
 
